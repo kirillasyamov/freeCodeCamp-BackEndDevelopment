@@ -1,8 +1,5 @@
 {
-	"author": {
-		"name": "Kirill Asyamov",
-		"email": "kirillasyamov@outlook.com"
-	},
+	"author": "Kirill Asyamov",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
