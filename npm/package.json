@@ -1,4 +1,8 @@
 {
+	"author": {
+		"name": "Kirill Asyamov",
+		"email": "kirillasyamov@outlook.com"
+	},
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
@@ -10,6 +14,5 @@
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/kirillasyamov/freeCodeCamp-BackEndDevelopment/tree/main/npm"
-	},
-	"author": "Kirill Asyamov"
+	}
 }
