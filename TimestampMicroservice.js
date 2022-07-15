@@ -31,6 +31,8 @@ class Timestamp {
     }
 }
 
+// можно просто гет отдельно тогда не нужно будет как функции вызывать
+
 function validator(req, res, next) {
     try {
         const input = req.params.date
