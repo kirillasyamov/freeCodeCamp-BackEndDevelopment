@@ -1,0 +1,22 @@
+{
+  "name": "microservicees",
+  "description": "API project for freeCodeCamp",
+  "scripts": {
+    "1": "node ExerciseTrackerMicroservice.js",
+    "2": "node FileMetadataMicroservice.js",
+    "3": "node HeaderParserMicroservice.js",
+    "4": "node TimestampMicroservice.js",
+    "5": "node UrlShortenerMicroservice.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-validator": "^6.14.2"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
